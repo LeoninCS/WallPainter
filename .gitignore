@@ -1,0 +1,18 @@
+.DS_Store
+
+# Go
+*.test
+coverage.out
+
+# Wails
+build/bin/
+build/*.dmg
+*.dmg
+
+# Frontend
+frontend/dist/
+frontend/node_modules/
+frontend/.vite/
+
+# Local config
+*.local
